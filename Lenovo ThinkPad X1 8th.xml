@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FanControlConfigV2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <NotebookModel>ThinkPad X1 8th - 20U9</NotebookModel>
+  <NotebookModel>LENOVO 20U9S19X00</NotebookModel>
   <Author>tladudtn</Author>
   <EcPollInterval>3000</EcPollInterval>
   <ReadWriteWords>false</ReadWriteWords>
